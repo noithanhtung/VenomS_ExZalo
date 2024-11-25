@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./images/icon-384.png" width="22px"> ZaloDataExtractor</h1>
+<h1 align="center"><img src="./images/icon-384.png" width="22px"> VenomS_ExZalo</h1>
 <img align='right' src="./images/icon-384.png" width="75" height="75">
 
 ## Overview
